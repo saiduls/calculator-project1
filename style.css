@@ -33,6 +33,10 @@
 	cursor: pointer;
 }
 #equal{
-	background-color: #5555ff;
+	background-color: orange;
 	columns: white;
+}
+.button:hover{
+	background-color: darkkhaki;
+	transition: 0.5s ease-in-out;
 }
